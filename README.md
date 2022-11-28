@@ -2,8 +2,8 @@
 
 <img src = "profile cover.jpeg" alt="Github banner">
 
-<h1 align = "center"> Hi! I am RYAN JOHN. </h1>
-<h3 align = "center"> Hey there. Welcome to my github profile</h3>
+<h1 align = "center"> Hey there! I'm RYAN JOHN. </h1>
+<h3 align = "center"> Welcome to my github profile</h3>
 <h3 align = "center">Love to EXPLORE.
 <p>Exploring the world of TECHNOLOGY.</p>
 
@@ -57,24 +57,14 @@
 
 <h1 align="center">Connect with me through :-</h1>
 <p align="center">
-  <a href="https://twitter.com/ImVamsi2002">
+  <a href="https://twitter.com/nutellafps_">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=plastic&logo=twitter&logoColor=white" height=20></a>
-  <a href="https://www.instagram.com/thevamsi2395/">
+  <a href="https://www.instagram.com/_ryyyannnn/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=plastic&logo=instagram&logoColor=white" height=20></a>
-  <a href="https://www.facebook.com/dvamsidhar">
-    <img src="https://img.shields.io/badge/Facebook-%234267B2.svg?&style=plastic&logo=facebook&logoColor=white" height=20></a>
-  <a href="https://stackoverflow.com/users/19970419/d-vamsidhar">
-    <img src="https://img.shields.io/badge/Stack Overflow-%23F48024.svg?&style=plastic&logo=stackoverflow&logoColor=white" height=20></a>
-  <a href="https://www.linkedin.com/in/dvamsidhar5932200802/">
+  <a href="https://www.linkedin.com/in/ryan-john-507965215/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?&style=plastic&logo=linkedin&logoColor=white" height=20></a>
-  <a href="https://www.hackerrank.com/dvamsidhar">
+  <a href="https://www.hackerrank.com/rj4606">
     <img src="https://img.shields.io/badge/-Hackerrank-2EC866?&style=plastic&logo=HackerRank&logoColor=white" height=20></a>
-  <a href="https://vamsidhararticles.blogspot.com/">
-    <img src="https://img.shields.io/badge/Blogger-FF5722?style=plastic&logo=blogger&logoColor=white" height=20></a>
-  <a href="https://medium.com/@dvamsidhar2002">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=plastic&logo=medium&logoColor=white" height=20></a>
-  <a href="https://dev.to/dvamsidhar2002">
-    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=plastic&logo=devdotto&logoColor=white" height=20></a>
 </p>
 
 <hr>
