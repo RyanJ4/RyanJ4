@@ -1,12 +1,14 @@
 <H1 ALIGN = "CENTER">WELCOME TO MY GITHUB PROFILE</H1>
 
-<img src = "profile cover.jpeg" alt="Github banner">
+<p align="center">
+<img src = "profile cover.jpeg">
+</p>
 
 <h1 align = "center"> Hey there! I'm RYAN JOHN. </h1>
 <h3 align = "center"> Welcome to my github profile</h3>
 <h3 align = "center">Love to EXPLORE.
 <p>Exploring the world of TECHNOLOGY.</p>
-
+  
 <h2 align="center">Learning</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white" height=20>
