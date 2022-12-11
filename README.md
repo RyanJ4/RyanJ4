@@ -1,8 +1,5 @@
-<H1 ALIGN = "CENTER">WELCOME TO MY GITHUB PROFILE</H1>
 
-
-<h1 align = "center"> Hey there! I'm RYAN JOHN. </h1>
-<h3 align = "center"> Welcome to my github profile</h3>
+<h1 align = "center"> Hey there! I'm Ryan. </h1>
 <h3 align = "center">Love to EXPLORE.
 <p>Exploring the world of TECHNOLOGY.</p>
   
